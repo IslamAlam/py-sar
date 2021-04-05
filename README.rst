@@ -19,25 +19,25 @@ Overview
     :target: https://py-sar.readthedocs.io/
     :alt: Documentation Status
 
-.. |travis| image:: https://api.travis-ci.com/islamalam/py-sar.svg?branch=master
+.. |travis| image:: https://api.travis-ci.com/IslamAlam/py-sar.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.com/github/islamalam/py-sar
+    :target: https://travis-ci.com/github/IslamAlam/py-sar
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/islamalam/py-sar?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/IslamAlam/py-sar?branch=master&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/islamalam/py-sar
+    :target: https://ci.appveyor.com/project/IslamAlam/py-sar
 
-.. |requires| image:: https://requires.io/github/islamalam/py-sar/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/IslamAlam/py-sar/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/islamalam/py-sar/requirements/?branch=master
+    :target: https://requires.io/github/IslamAlam/py-sar/requirements/?branch=master
 
-.. |coveralls| image:: https://coveralls.io/repos/islamalam/py-sar/badge.svg?branch=master&service=github
+.. |coveralls| image:: https://coveralls.io/repos/IslamAlam/py-sar/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/islamalam/py-sar
+    :target: https://coveralls.io/r/IslamAlam/py-sar
 
-.. |codecov| image:: https://codecov.io/gh/islamalam/py-sar/branch/master/graphs/badge.svg?branch=master
+.. |codecov| image:: https://codecov.io/gh/IslamAlam/py-sar/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/islamalam/py-sar
+    :target: https://codecov.io/github/IslamAlam/py-sar
 
 .. |version| image:: https://img.shields.io/pypi/v/py-sar.svg
     :alt: PyPI Package latest release
@@ -55,9 +55,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/py-sar
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/islamalam/py-sar/v0.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/IslamAlam/py-sar/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/islamalam/py-sar/compare/v0.0.0...master
+    :target: https://github.com/IslamAlam/py-sar/compare/v0.0.0...master
 
 
 
@@ -76,7 +76,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/islamalam/py-sar/archive/master.zip
+    pip install https://github.com/IslamAlam/py-sar/archive/master.zip
 
 
 Documentation

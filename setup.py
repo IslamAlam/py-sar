@@ -32,7 +32,7 @@ setup(
     ),
     author='Islam Alam Mansour',
     author_email='is3mansour@gmail.com',
-    url='https://github.com/islamalam/py-sar',
+    url='https://github.com/IslamAlam/py-sar',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -64,7 +64,7 @@ setup(
     project_urls={
         'Documentation': 'https://py-sar.readthedocs.io/',
         'Changelog': 'https://py-sar.readthedocs.io/en/latest/changelog.html',
-        'Issue Tracker': 'https://github.com/islamalam/py-sar/issues',
+        'Issue Tracker': 'https://github.com/IslamAlam/py-sar/issues',
     },
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
